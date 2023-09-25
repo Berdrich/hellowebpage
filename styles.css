@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
 /* Reset some default browser styles */
 html, body, h1, h2, p, ul, li {
     margin: 0;
@@ -6,9 +7,9 @@ html, body, h1, h2, p, ul, li {
 
 /* Apply a basic page background color and font style */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #daffcd;
-    color: #000000;
+    font-family: 'Mooli', sans-serif;
+    background-color: #233514;
+    color: #aca77a;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -16,8 +17,8 @@ body {
 
 /* Style the header */
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #233514;
+    color: #987f2e;
     text-align: left;
     padding: 1em 1em;
 }
@@ -26,7 +27,7 @@ header {
 nav ul {
     list-style: none;
     text-align: left;
-    background-color: #444;
+    background-color: #1c3a34;
     padding: 1em 1em;
 }
 
@@ -52,7 +53,7 @@ main {
 section h2 {
     font-size: 24px;
     margin-bottom: 10px;
-    color: #333;
+    color: #233514;
 }
 
 /* Style images within sections */
@@ -66,7 +67,7 @@ section img {
 /* Style the footer */
 footer {
     text-align: center;
-    background-color: #333;
+    background-color: #233514;
     color: #fff;
     padding: 10px 0;
 }
